@@ -1,5 +1,7 @@
 # amCharts-sample 
 
+[Deployed Website](https://indrap24.github.io/amCharts-sample}
+
 ## Overview
 
 
@@ -16,8 +18,4 @@
 
 
 ## Author
-
-
-## License
-
-Please see license.txt.
+Indrashis Paul
